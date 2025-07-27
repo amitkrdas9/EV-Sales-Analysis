@@ -1,5 +1,3 @@
-# EV-Sales-Analysis
-Interactive bar chart visualization of Electric Vehicle sales by vehicle type using Plotly in Python.
 # EV Sales Analysis
 
 This project visualizes Electric Vehicle sales by vehicle type using Python and Plotly.  
